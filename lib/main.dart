@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'pages/home_screen.dart';  // Pantalla principal (Home)
-import 'pages/chat_screen.dart';  // Pantalla del chatbot (Chat)
+import 'Pages/home_screen.dart';  // Pantalla principal (Home)
+import 'Pages/chat_screen.dart';  // Pantalla del chatbot (Chat)
 
 void main() {
   runApp(MyApp());
